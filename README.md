@@ -11,6 +11,21 @@ This is a new structure inspire from SENet[[1]](http://openaccess.thecvf.com/con
 
 ![FENet flow chart](https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/FENet%20flow%20chart.JPG)
 
+<div align="center">
+  <img src="https://github.com/yoyotv/Fusion-and-Extension-Netwoks/blob/master/figure/FENet.JPG?raw=true">
+</div>
+<p align="center">
+  Figure 1: Diagram of a Squeeze-and-Excitation building block.
+</p>
+
+<div align="center">
+   <img src="https://github.com/hujie-frank/SENet/blob/master/figures/SE-Inception-module.jpg" width="420">
+  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/FENet%20flow%20chart.JPG"  width="420">
+</div>
+<p align="center">
+  Figure 2: Schema of SE-Inception and SE-ResNet modules. We set r=16 in all our models.
+</p>
+
 
 ## GET started
 
