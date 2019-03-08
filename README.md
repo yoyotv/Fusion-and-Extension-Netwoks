@@ -47,8 +47,8 @@ The code on other framwork(e.g. caffe, pytorch, tensorflow) will release soon.
 ## Results
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/c10.jpg" width="430" height="600">
-  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/c100.jpg"  width="440" height="600">
+   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/22a6c7c7e82d7fe52ef93ea247de873101b088c4/figures/c10.jpg" width="430" height="650">
+  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/22a6c7c7e82d7fe52ef93ea247de873101b088c4/figures/c100.jpg"  width="440" height="650">
 </div>
 <p align="center">
   Figure 3: Results of CIFAR10 and CIFAR100.
