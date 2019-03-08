@@ -6,24 +6,19 @@ Study base on [1], [2], [3] and [4] ,then modify the structure to accomplish the
 
 This is a new structure inspire from SENet[[1]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
 
-
-![FENet](https://github.com/yoyotv/Fusion-and-Extension-Netwoks/blob/master/figure/FENet.JPG?raw=true)
-
-![FENet flow chart](https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/FENet%20flow%20chart.JPG)
-
 <div align="center">
   <img src="https://github.com/yoyotv/Fusion-and-Extension-Netwoks/blob/master/figure/FENet.JPG?raw=true">
 </div>
 <p align="center">
-  Figure 1: Diagram of a Squeeze-and-Excitation building block.
+  Figure 1: Diagram of a Fusion-and-Extension building block.
 </p>
 
 <div align="center">
-   <img src="https://github.com/hujie-frank/SENet/blob/master/figures/SE-Inception-module.jpg" width="420">
+   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/SENet%20flow%20chart.jpg" width="420">
   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/FENet%20flow%20chart.JPG"  width="420">
 </div>
 <p align="center">
-  Figure 2: Schema of SE-Inception and SE-ResNet modules. We set r=16 in all our models.
+  Figure 2: Schema of SE-Net and FE-Net modules.
 </p>
 
 
