@@ -15,7 +15,7 @@ This is a new structure inspire from SENet[[1]](http://openaccess.thecvf.com/con
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/SENet%20flow%20chart.jpg" width="450" height="500">
-  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/FENet%20flow%20chart.JPG"  width="410" height="500">
+  <img src=""  width="410" height="500">
 </div>
 <p align="center">
   Figure 2: Schema of SE-Net and FE-Net modules.
