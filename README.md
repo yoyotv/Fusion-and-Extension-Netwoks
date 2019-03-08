@@ -15,7 +15,7 @@ This is a new structure inspire from SENet[[1]](http://openaccess.thecvf.com/con
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/SE-ResNet-module.jpg" width="420" height="500">
-  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/FE-ResNet-module.JPG"  width="420" height="500">
+  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/FE-ResNet-module.JPG"  width="450" height="500">
 </div>
 <p align="center">
   Figure 2: Schema of SE-Net and FE-Net modules.
@@ -28,15 +28,22 @@ Success in :
 
 python 2.7,  keras 2.2.4
 
+I implement it on keras.
+
+The code on other framwork(e.g. caffe, pytorch, tensorflow) will release soon.
+
 ## Try 
 
 
-  ![rcmac](https://raw.githubusercontent.com/yoyotv/WIP-simulation/master/path%20following/figure/rcmac.jpg)
+### Paramaters
 
-
-### Paramater
-
-Learning rate of weight and variance, sliding function parameter
+| Settings | Detail |
+|:-:|:-:|
+|Epoch| 200 |
+|Batch| 128 |
+|Initial learning rate|0.1|
+|Dropout| Yes|
+|Data augmentation|No|
 
 ### References
 
