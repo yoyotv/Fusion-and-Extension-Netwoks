@@ -28,7 +28,7 @@ python 2.7,  keras 2.2.4
 
 I implement it on keras.
 
-The code on other framworks(e.g. caffe, pytorch, tensorflow) will release soon.
+The code on other framworks(e.g. caffe, pytorch, tensorflow) will be released soon.
 
 ### Paramaters
 
