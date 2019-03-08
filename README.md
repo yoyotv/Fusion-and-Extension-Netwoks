@@ -32,9 +32,6 @@ I implement it on keras.
 
 The code on other framwork(e.g. caffe, pytorch, tensorflow) will release soon.
 
-## Try 
-
-
 ### Paramaters
 
 | Settings | Detail |
@@ -45,7 +42,10 @@ The code on other framwork(e.g. caffe, pytorch, tensorflow) will release soon.
 |Dropout| Yes|
 |Data augmentation|No|
 
-### References
+## Try 
+
+
+## References
 
 [1] Jie Hu, Li Shen, Gang Sun; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7132-7141 
 
