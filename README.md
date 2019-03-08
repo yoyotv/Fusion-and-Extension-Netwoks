@@ -1,6 +1,6 @@
 # Fusion-and-Extension-Netwoks
 
-This is a new network structure inspire by SENet[[1]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) and "Cerebellar model articulation controller"[[2]](https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=820151).
+This is a new and different convolutional neural network inspire by SENet[[1]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) and "Cerebellar model articulation controller"[[2]](https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=820151).
 
 ## Approach 
 
