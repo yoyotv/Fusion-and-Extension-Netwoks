@@ -58,10 +58,5 @@ The code on other framwork(e.g. caffe, pytorch, tensorflow) will release soon.
 
 [1] Jie Hu, Li Shen, Gang Sun; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7132-7141 
 
-[2] B. d’Andr ́ea-Novel, G. Bastin, and G. Campion, “Modeling andcontrol of non holonomic wheeled mobile robots,” inthe 1991 IEEEInternational Conference on Robotics and Automation, 1991, pp.1130–1135
-
-[3] Dianwei Qian · Jianqiang Yi, "Hierarchical Sliding Mode Control for Underactuated Cranes"
-
-[4] Xia, D.; Yao, Y.; Cheng, L. Indoor autonomous control of a two-wheeled inverted pendulum vehicle using ultra wide band technology. Sensors 2017, 17, 1401
 
 
