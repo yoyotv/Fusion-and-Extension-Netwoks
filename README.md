@@ -7,6 +7,8 @@ Study base on [1], [2], [3] and [4] ,then modify the structure to accomplish the
 This is a new structure inspire from SENet[[1]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
 
 
+![FENet](https://github.com/yoyotv/Fusion-and-Extension-Netwoks/blob/master/figure/FENet.JPG?raw=true)
+
 
 ## GET started
 
