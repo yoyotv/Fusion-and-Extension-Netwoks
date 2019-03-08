@@ -1,10 +1,8 @@
 # A-new-and-different-network-inspire-from-SENet
 
-Study base on [1], [2], [3] and [4] ,then modify the structure to accomplish the simulation.
+This is a new network structure inspire from SENet[[1]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf) and "Cerebellar model articulation controller"[[2]](https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=820151).
 
 ## Approach 
-
-This is a new structure inspire from SENet[[1]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/FENet.JPG">
@@ -57,6 +55,8 @@ The code on other framwork(e.g. caffe, pytorch, tensorflow) will release soon.
 ## References
 
 [1] Jie Hu, Li Shen, Gang Sun; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7132-7141 
+
+[2] J.S. Albus (1975). "A New Approach to Manipulator Control: the Cerebellar Model Articulation Controller (CMAC)". In: Trans. ASME, Series G. Journal of Dynamic Systems, Measurement and Control, Vol. 97, pp. 220–233, 1975.
 
 
 
