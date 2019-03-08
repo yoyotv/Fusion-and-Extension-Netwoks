@@ -9,7 +9,7 @@ This is a new structure inspire from SENet[[1]](http://openaccess.thecvf.com/con
 
 ![FENet](https://github.com/yoyotv/Fusion-and-Extension-Netwoks/blob/master/figure/FENet.JPG?raw=true)
 
-![FENet flow chart](https://github.com/yoyotv/Fusion-and-Extension-Netwoks/blob/master/figure/FENet.JPG?raw=true)
+![FENet flow chart](https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figure/FENet%20flow%20chart.JPG)
 
 
 ## GET started
