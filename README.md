@@ -54,7 +54,7 @@ The code on other framworks(e.g. caffe, pytorch, tensorflow) will be released so
 
 ## References
 
-[1] Jie Hu, Li Shen, Gang Sun; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7132-7141 
+[1] Jie Hu, Li Shen, Gang Sun, "Squeeze-and-Excitation Networks" ; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7132-7141 
 
 [2] J.S. Albus (1975). "A New Approach to Manipulator Control: the Cerebellar Model Articulation Controller (CMAC)". In: Trans. ASME, Series G. Journal of Dynamic Systems, Measurement and Control, Vol. 97, pp. 220–233, 1975.
 
