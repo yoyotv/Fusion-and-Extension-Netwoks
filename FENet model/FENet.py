@@ -1,7 +1,6 @@
-import tensorflow as tf
-import keras
 from keras.layers import Conv2D, BatchNormalization, Activation
 from keras.layers import AveragePooling2D, Input, Flatten,Reshape,multiply
+import numpy as np
 
 def fe_block(input):
   init = input
