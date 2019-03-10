@@ -42,6 +42,8 @@ The code on other framworks(e.g. caffe, pytorch, tensorflow) will be released so
 
 ## Try 
 
+Call the "fe_block" function and insert it into the base framework.
+
 ## Results
 
 <div align="center">
