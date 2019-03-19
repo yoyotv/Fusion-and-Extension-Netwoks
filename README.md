@@ -5,7 +5,7 @@ This is a new and useful convolutional neural network inspired by SENet[[1]](htt
 ## Approach 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/FENet.JPG">
+  <img src="https://github.com/yoyotv/Fusion-and-Extension-Netwoks/blob/master/figures/FENet.JPG?raw=true">
 </div>
 <p align="center">
   Figure 1: Diagram of a Fusion-and-Extension building block.
