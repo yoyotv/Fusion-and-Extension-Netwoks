@@ -46,6 +46,8 @@ Call the "fe_block" function and insert it into the base framework.
 
 ## Results
 
+I evaluate the model on CIFAR10/100 and LFW Face identification dataset.
+
 <div align="center">
    <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/22a6c7c7e82d7fe52ef93ea247de873101b088c4/figures/c10.jpg" width="430" height="650">
   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/22a6c7c7e82d7fe52ef93ea247de873101b088c4/figures/c100.jpg"  width="440" height="650">
