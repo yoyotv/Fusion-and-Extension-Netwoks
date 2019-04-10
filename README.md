@@ -62,7 +62,7 @@ I evaluate the model on CIFAR10/100 and LFW[[3]](http://vis-www.cs.umass.edu/lfw
 
 [2] J.S. Albus (1975). "A New Approach to Manipulator Control: the Cerebellar Model Articulation Controller (CMAC)". In: Trans. ASME, Series G. Journal of Dynamic Systems, Measurement and Control, Vol. 97, pp. 220–233, 1975.
 
-[3] Labeled Faces in the Wild http://vis-www.cs.umass.edu/lfw/index.html
+[3] [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/index.html)
 
 
 
