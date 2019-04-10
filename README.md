@@ -46,7 +46,7 @@ Call the "fe_block" function and insert it into the base framework.
 
 ## Results
 
-I evaluate the model on CIFAR10/100 and LFW[[1]](http://vis-www.cs.umass.edu/lfw/) Face identification dataset.
+I evaluate the model on CIFAR10/100 and LFW[[3]](http://vis-www.cs.umass.edu/lfw/index.html) Face identification dataset.
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/22a6c7c7e82d7fe52ef93ea247de873101b088c4/figures/c10.jpg" width="430" height="650">
@@ -61,6 +61,8 @@ I evaluate the model on CIFAR10/100 and LFW[[1]](http://vis-www.cs.umass.edu/lfw
 [1] Jie Hu, Li Shen, Gang Sun, "Squeeze-and-Excitation Networks" ; The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 7132-7141 
 
 [2] J.S. Albus (1975). "A New Approach to Manipulator Control: the Cerebellar Model Articulation Controller (CMAC)". In: Trans. ASME, Series G. Journal of Dynamic Systems, Measurement and Control, Vol. 97, pp. 220–233, 1975.
+
+[3] Labeled Faces in the Wild http://vis-www.cs.umass.edu/lfw/index.html
 
 
 
