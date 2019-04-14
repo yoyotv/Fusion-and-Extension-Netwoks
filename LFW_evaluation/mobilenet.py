@@ -1,14 +1,3 @@
-"""Trains a ResNet on the CIFAR10 dataset.
-
-ResNet v1
-[a] Deep Residual Learning for Image Recognition
-https://arxiv.org/pdf/1512.03385.pdf
-
-ResNet v2
-[b] Identity Mappings in Deep Residual Networks
-https://arxiv.org/pdf/1603.05027.pdf
-"""
-
 from __future__ import print_function
 import keras
 from keras.layers import Dense, Conv2D, BatchNormalization, Activation
