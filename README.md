@@ -49,8 +49,8 @@ Call the "fe_block" function and insert it into the backbone framework.
 I evaluate the model on CIFAR10/100 and LFW[[3]](http://vis-www.cs.umass.edu/lfw/index.html) Face identification dataset.
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/c10.jpg" width="430" height="650">
-  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/c100.jpg"  width="440" height="650">
+   <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/c10.JPG" width="430" height="650">
+  <img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/c100.JPG"  width="440" height="650">
 </div>
 <p align="center">
   Figure 3: Results of CIFAR10 and CIFAR100.
