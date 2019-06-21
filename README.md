@@ -55,6 +55,9 @@ I evaluate the model on CIFAR10/100 and LFW[[3]](http://vis-www.cs.umass.edu/lfw
 <p align="center">
   Figure 3: Results of CIFAR10 and CIFAR100.
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/lfw.JPG">
+</p>
 
 ## References
 
