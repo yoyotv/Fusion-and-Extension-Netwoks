@@ -22,7 +22,7 @@ This is a new and useful convolutional neural network inspired by SENet[[1]](htt
 
 ## GET started
 
-Success in :
+Succeed in :
 
 python 2.7,  keras 2.2.4
 
