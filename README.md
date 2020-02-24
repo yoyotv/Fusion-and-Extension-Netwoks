@@ -46,6 +46,14 @@ Call the "fe_block" function and insert it into the backbone framework.
 
 ## Results
 
+### On LFW
+  Applying FE Networks to intensify the extraction of central face. The lighter, the more critical.
+<p align="center">
+<img src="https://raw.githubusercontent.com/yoyotv/Fusion-and-Extension-Netwoks/master/figures/LFW.png" width="630" height="330">
+</p>
+  
+  
+### On CIFAR10/100
 I evaluate the model on CIFAR10/100 and LFW[[3]](http://vis-www.cs.umass.edu/lfw/index.html) Face identification dataset.
 
 <div align="center">
